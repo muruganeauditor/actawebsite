@@ -1489,3 +1489,12 @@ section {
 #footer .credits a:hover {
   color: #f1f7ff;
 }
+
+.btn-free-trail{
+  background: #fff !important ;
+  border: 2px solid #007bff!important;
+  color: #007bff;
+  padding: 10px 32px !important;
+  margin: 10px 32px;
+  border-radius: 50px;
+}    
